@@ -1,0 +1,19 @@
+{
+    "name": "BuildInfo.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e9b1d54fa201ec41b503d0fcc4adc2e",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,33 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-user" at "2025-03-02T04:46:13.2602691Z"
+[Licensing::Client] Error: Code 10 while verifying Licensing Client signature (process Id: 14888, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] Error: LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.16.2+bdef8f5
+  Session Id:              6bfe7d83b8ad48f787e59191e1f8bd52
+  Correlation Id:          fa406be2a74ed7006b26845b0dc70dfb
+  External correlation Id: 6278439454614797322
+  Machine Id:              NIT1yPoCXnIZzRzjh/WC1k9VHho=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-user" (connect: 0.00s, validation: 0.01s, handshake: 0.06s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-user-notifications" at "2025-03-02T04:46:13.3332666Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully updated license
+Built from '6000.0/staging' branch; Version is '6000.0.23f1 (1c4764c07fb4) revision 1853284'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ja' Physical Memory: 65462 MB
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Serial number assigned to: "353533-UnityPersXXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+[Licensing::Client] Successfully resolved entitlement details
+
+COMMAND LINE ARGUMENTS:
+E:\Unity\6000.0.23f1\Editor\Unity.exe
+-batchmode
+-quit
+-logFile
+.\build.log
+-projectPath
+..
+-executeMethod
+Builder.DevelopmentBuild
+Couldn't set project path to: E:/Repos
+Exiting without the bug reporter. Application will terminate with return code 1
